@@ -33,15 +33,3 @@ Projede şu dosyalar GitHub’a dahil edilmemiştir:
 
 target/
 *.class
-
----
-
-# Proje Yapısı
-
-AdamAsmaca/
-├── src/
-├── pom.xml
-│
-P2Oyun/
-├── Resimler/
-├── TXTDosyalar/
