@@ -1,3 +1,4 @@
+Chat with Copilot ile eklenmiştir
 # Adam Asmaca Oyunu (Java Swing)
 
 **Java Swing kullanılarak geliştirilmiş masaüstü kelime tahmin oyunudur.**
